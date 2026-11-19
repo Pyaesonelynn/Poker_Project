@@ -39,6 +39,41 @@
             <p class="muted">Deck:108 cards. 13 cards per player</p>
         </section>
         
+        <section id="lanGame" class="panel">
+            <div class="table-heading">
+                <p class="eyebrow">LAN MULTIPLAYER</p>
+                <h2>Room
+                    <span id="lanRoomCode">  </span>
+                </h2>
+            </div>
+            <div id="lanStatus" class="status">Connecting to room...
+            <p id="lanMessage" role="status" class="muted">Waiting for other players...</p>
+            <div>
+                <div class="pile">
+                    <spam class="pile-label">Draw pile</spam>
+                    <strong id="lanDrawCount"> 0 </strong>
+                    <button id="lanDrawBtn">Draw 1 Card</button>
+                </div>
+                <div class="pile">
+                    <spam class="pile-label">Latest Discard</spam>
+                    <div id="lanTopDiscard" class="big-card">-</div>
+                    <button id="lanTakeBtn">Take Discard</button>
+                </div>
+                <div class="pile">
+                    <spam class="pile-label">Discard Pile</spam>
+                    <strong id="lanDiscardCount"> 0 </strong>
+                </div>
+            </div>
+            <h3>Players</h3><div id="lanPlayers" class="players-list"></div>
+            <div class="table-heading"><div><p class="eyebrow" id="lanTuenLabel">WAITING</p><h2 id="lanHandTitle">Your Hand</h2></div><span id="lanHandCount" class="muted"></span></div>
+            <p class="muted">Drag cards to reorder.Select a card and discard it when you have 14 cards.</p>
+            <div id="lanHand" class="hand"></div>
+            <div class="actions">
+                <button id="lanDiscardBtn" class="primary" disabled>Discard SelectedCard</button>
+                <button id="lanNewGameBtn" class="secondary">Leave Room</button>
+            </div>
+        </section>
+        
     </main>
 </body>
 </html>
