@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <header class="topbar">
         <div>
             <p class="eyebrow">Card Game Project</p>
@@ -17,7 +18,27 @@
     </header>
 
     <main>
+        <section class="setup pannel" id="setup">
+            <h2>Game Setup</h2>
+            <label for="playerCount">Number of Players</label>
 
+            <select id="playerCount">
+                <option value="2" selected>2 players</option>
+                <option value="3">3 players</option>
+                <option value="4">4 players</option>
+            </select>
+
+            <button id="startBtn" class="primary">Start Local Game</button>
+
+            <hr>
+            <h3>LAN Multiplayer(Require Same Wi-Fi Network)</h3>
+            <label for="roomCodeInput">Room Code</label>
+            <input id="roomCodeInput" maxlength="6" placeholder="Enter Room Code">
+            <button id="joinRoomBtn">Join Game</button>
+            <p class="muted">Run this app on the host laptop,then open the host laptop's LAN address on the second laptop.</p>
+            <p class="muted">Deck:108 cards. 13 cards per player</p>
+        </section>
+        
     </main>
 </body>
 </html>
