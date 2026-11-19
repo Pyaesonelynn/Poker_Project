@@ -1,0 +1,115 @@
+<mxfile host="65bd71144e">
+    <diagram id="cgpcUf7Ymoya0oKXtY9K" name="ページ-1">
+        <mxGraphModel dx="2508" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;fontStyle=1;fontSize=21;" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;游ゴシック Light&amp;quot;; color: black;&quot;&gt;Poker&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;で脳の確率の計算を高める&lt;br&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;游ゴシック Light&amp;quot;; color: black;&quot;&gt;Web&lt;/span&gt;&lt;span style=&quot;color: black;&quot;&gt;アプリ&lt;/span&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="550" x="140" y="-30" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fontColor=default;" value="&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: medium;&quot;&gt;友人と&lt;span class=&quot;Apple-converted-space&quot; style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: medium;&quot;&gt;Poker&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: medium;&quot;&gt;を楽しみ、勝敗や点数を簡単に記録・管理したい人。&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="330" x="10" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ゲームを選ぶ" vertex="1">
+                    <mxGeometry height="60" width="120" x="10" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="参加者を設定する" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="結果。履歴確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1040" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="点数を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="880" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ゲームを進む" vertex="1">
+                    <mxGeometry height="60" width="120" x="595" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="カードを配る" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="カードを配る" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-15" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint y="410" as="sourcePoint"/>
+                        <mxPoint x="1160" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ゲーム選択する" vertex="1">
+                    <mxGeometry height="60" width="120" x="10" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="参加者人数設定する&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;2-4人まで&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="159" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ディーラーを&lt;div&gt;決める&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="310" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="点数計算する" vertex="1">
+                    <mxGeometry height="60" width="120" x="590" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="カードの確率計算" vertex="1">
+                    <mxGeometry height="60" width="120" x="740" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="練習モードで&lt;div&gt;AIと遊ぶ&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="10" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-24" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Walking Skeleton" vertex="1">
+                    <mxGeometry height="80" width="120" x="-150" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-25" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="タスクリスト" vertex="1">
+                    <mxGeometry height="80" width="120" x="-150" y="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-26" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="今後追加する機能" vertex="1">
+                    <mxGeometry height="80" width="120" x="-150" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-28" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint y="530" as="sourcePoint"/>
+                        <mxPoint x="1160" y="530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-29" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint y="650" as="sourcePoint"/>
+                        <mxPoint x="1160" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ディーラー" vertex="1">
+                    <mxGeometry height="40" width="90" x="10" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="プレイヤー" vertex="1">
+                    <mxGeometry height="40" width="90" x="120" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="勝敗を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="890" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="履歴を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1040" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="人数制限を実装する" vertex="1">
+                    <mxGeometry height="60" width="120" x="159" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="点数計算を実装する" vertex="1">
+                    <mxGeometry height="60" width="120" x="590" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="データベースに&lt;div&gt;保存する&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="740" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="履歴画面を作る" vertex="1">
+                    <mxGeometry height="60" width="120" x="890" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="動作をテストする" vertex="1">
+                    <mxGeometry height="60" width="120" x="1040" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="勝率を分析する" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2bmjkwiyo2ZhaC2Wyct-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="成績を比較する" vertex="1">
+                    <mxGeometry height="60" width="120" x="595" y="680" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
